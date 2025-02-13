@@ -1,2 +1,4 @@
 # MLOH
-The Matlab codes of image retrieval using the MLOH descriptor will be comming soon!
+The Matlab codes of image retrieval using the MLOH descriptor
+
+
