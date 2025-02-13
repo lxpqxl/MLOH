@@ -10,8 +10,7 @@ Annotations:[Annotations](http://cmp.felk.cvut.cz/revisitop/).
 
 # Pretrained models
 
-You can download our pretrained models and parameters from [Baidu Netdisk](通过网盘分享的文件：pretrained_models.zip
-链接: https://pan.baidu.com/s/1GsWLCJZSb5FMNVsPm8bY_A?pwd=7mkq 提取码: 7mkq).
+You can download our pretrained models and parameters from [Baidu Netdisk](https://pan.baidu.com/s/1GsWLCJZSb5FMNVsPm8bY_A?pwd=7mkq).
 
 # Evaluation
 
