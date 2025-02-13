@@ -3,9 +3,9 @@ The Matlab codes of image retrieval using the MLOH descriptor!
 
 # data preparation
 
-Oxford5k:[ROxf](http://www.robots.ox.ac.uk/~vgg/data/oxbuildings) 
-Paris6k:[RPar](http://www.robots.ox.ac.uk/~vgg/data/parisbuildings) 
-Annotations:[annotations](http://cmp.felk.cvut.cz/revisitop/).
+Oxford5k:[Oxford5k](http://www.robots.ox.ac.uk/~vgg/data/oxbuildings).
+Paris6k:[Oxford5k](http://www.robots.ox.ac.uk/~vgg/data/parisbuildings) .
+Annotations:[Annotations](http://cmp.felk.cvut.cz/revisitop/).
 
 
 # Evaluation
