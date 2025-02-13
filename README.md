@@ -7,6 +7,17 @@ The Matlab codes of image retrieval using the MLOH descriptor!
 Oxford5k:[Oxford5k](http://www.robots.ox.ac.uk/~vgg/data/oxbuildings).
 Paris6k:[Oxford5k](http://www.robots.ox.ac.uk/~vgg/data/parisbuildings) .
 Annotations:[Annotations](http://cmp.felk.cvut.cz/revisitop/).
+```
+ └ dataset
+   └ oxford5k
+     └ oxford5k_images
+       └ ...
+   └ paris6k
+     └ paris6k_images
+       └ ...
+```
+
+
 
 # Pretrained models
 
