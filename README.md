@@ -13,5 +13,5 @@ To evaluate on Roxford5k , Rparis6k , oxford5k, and paris6k run:
 ```
 test_main.m
 ```
-#Acknowledgement
+# Acknowledgement
 Our work builds upon the foundation laid by [Filip Radenovic](https://github.com/filipradenovic/revisitop), and we would like to express our gratitude for his contributions to the image retrieval community.
