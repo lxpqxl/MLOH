@@ -1,4 +1,7 @@
 clear;
+addpath('layers');
+addpath('utils');
+addpath('eval');
 tic;
 muti_scales = 1;
 scales = [1,1/sqrt(2),sqrt(2)];
